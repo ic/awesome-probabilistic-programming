@@ -45,6 +45,11 @@ All lists are in alphabetical order.
 
 - [Infer.NET](https://dotnet.github.io/infer/)
 
+#### Scala
+
+- [Figaro](https://github.com/p2t2/figaro)
+
+
 ### Specialised libraries
 
 #### Python
