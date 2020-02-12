@@ -12,6 +12,8 @@ All lists are in alphabetical order.
 
 ## Books
 
+- [Practical Probabilistic Programming](https://www.manning.com/books/practical-probabilistic-programming), by Avi Pfeffer.
+- [Probabilistic Deep Learning With Python, Keras and TensorFlow Probability](https://www.manning.com/books/probabilistic-deep-learning), by Oliver Dürr, Beate Sick, Elvis Murina. [Estimated release in Spring 2020]
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/), by Cameron Davidson-Pilon.
 
 
