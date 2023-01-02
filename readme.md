@@ -58,6 +58,12 @@ All lists are in alphabetical order.
 
 - [Prophet](https://facebook.github.io/prophet/)
 
+### Example Codes
+
+#### Pyro
+
+- [Simulation od COVID-19](https://github.com/assemzh/ProbProg-COVID-19)
+
 
 ## Contribute
 
